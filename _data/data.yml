@@ -47,17 +47,20 @@ education:
     - degree: Btech - Computer Science & Engineering
       university: Gayatri vidya parishad college of engineering(A), Vizag
       time: 2016 - 2020
-      details: CGPA - 8.0/10
+      details:|
+      CGPA - 8.0/10
         
     - degree: XII Senior Secondary
       university: Sri Chaitanya Junior College, Vijayawada
       time: 2014 - 2016
-      details: Percentage - 96.5%
+      details: |
+      Percentage - 96.5%
       
     - degree: XI Secondary
       university: Sri Chaitanya High School, Vizag
       time: 2014 - 2016
-      details: CGPA - 9.70/10
+      details: |
+       CGPA - 9.70/10
     
       
 
@@ -103,12 +106,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
 
     papers:
       - title: 
