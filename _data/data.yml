@@ -65,14 +65,15 @@ experiences:
     - role: Game Developer
       time: 2017 - 2018
       company: Khadga Entertainment, Vizag
-      details: During this internship i am involved in
+      details: |
+       During this internship I am involved in following tasks 
 
           - Game Design
           - Game Developement
           - Game Testing
           
     - role: Deep Learning Trainee
-      time: may, 2019 - jun, 2019
+      time: May,2019 - Jun,2019
       company: Quants Chain, Vizag
       details: Image SuperResolution Project
 
@@ -83,11 +84,11 @@ projects:
 
     assignments:
       - title: VR EyeSight CheckUp
-        link: "#github.com/KILLERKILLAM/VR_Eye_Sight_Check"
+        link: "github.com/KILLERKILLAM/VR_Eye_Sight_Check"
         tagline: "Virtual reality stimulation for Eyesight check up.This application is used to check our eyesight, eliminating the need to go to the hospital using vr headset and mobile."
 
       - title: VoiceMail
-        link: "#github.com/KILLERKILLAM/Voice-Based-Email-For-Blind-People"
+        link: "github.com/KILLERKILLAM/Voice-Based-Email-For-Blind-People"
         tagline: "The application asks for mail recipients, subject, message; Receives input through user’s voice; Converts it into text and sends the mail."
 
       - title: Tempo
