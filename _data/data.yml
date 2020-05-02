@@ -44,66 +44,51 @@ career-profile:
       A highly organized and hard-working individual looking for a responsible position to gain practical experience.
 
 education:
-    - degree: Btech in Computer Science
-      university: Gayatri vidya parishad college of engineering(A)
+    - degree: Btech - Computer Science & Engineering
+      university: Gayatri vidya parishad college of engineering(A), Vizag
       time: 2016 - 2020
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      details: CGPA : 8.0/10
+        
     - degree: XII Senior Secondary
-      university: Sri chaitanya junior college 
+      university: Sri Chaitanya Junior College, Vijayawada
       time: 2014 - 2016
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+      details: Percentage  : 96.5%
+      
+    - degree: XI Secondary
+      university: Sri Chaitanya High School, Vizag
+      time: 2014 - 2016
+      details: CGPA : 9.70/10
+    
+      
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+    - role: Game Developer
+      time: 2017 - 2018
+      company: Khadga Entertainment, Vizag
+      details: During this internship i am involved in
 
-          - Bullet point
-          - Bullet point
+          - Game Design
+          - Game Developement
+          - Game Testing
+          
+    - role: Deep Learning Trainee
+      time: may, 2019 - jun, 2019
+      company: Quants Chain, Vizag
+      details: Image SuperResolution Project
 
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: VR EyeSight CheckUp
+        link: "#github.com/KILLERKILLAM/VR_Eye_Sight_Check"
+        tagline: "Virtual reality stimulation for Eyesight check up.This application is used to check our eyesight, eliminating the need to go to the hospital using vr headset and mobile."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: VoiceMail
+        link: "#github.com/KILLERKILLAM/Voice-Based-Email-For-Blind-People"
+        tagline: "The application asks for mail recipients, subject, message; Receives input through user’s voice; Converts it into text and sends the mail."
 
       - title: Tempo
         link: "#"
