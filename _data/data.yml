@@ -94,17 +94,21 @@ projects:
         link: "github.com/KILLERKILLAM/Voice-Based-Email-For-Blind-People"
         tagline: "The application asks for mail recipients, subject, message; Receives input through user’s voice; Converts it into text and sends the mail."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Book Of Everything
+        link: ""
+        tagline: "An augmented reality application for education. This application adds another dimension to paper. Imposes virtual content into the real world environment when it captures the image target."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Freak Shapes 
+        link: ""
+        tagline: "A sci-fi arcade game. This is an infinite gameplay in which difficulty increases with time. Enemies come from all sides and the player has to kill the boss enemies(King of all enemies) to level up. "
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: BOOO Way Back Home
+        link: 
+        tagline: "An audio controlled 2D platformer game. It has three chapters with three core mechanics respectively."
+
+      - title: Image SuperResolution
+        link: 
+        tagline: "A convolutional neural network that is trained to convert a low resolution image to high resolution image."
 
 
 
